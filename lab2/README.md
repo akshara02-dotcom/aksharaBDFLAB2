@@ -1,14 +1,15 @@
 # Lab 2: SQLite Database and CRUD Routes
 
-**Name:** BAJJURI VINUTHNA
-**Registration Number:** 252U1R5017
+**Name:** Akshara
+**Registration Number:** 252U1R5026
 **Section:** S-10
 **Course:** Backend Development Fundamentals
 **Institution:** Aurora Deemed to be University
 **Faculty:** SHIVA SAI TEJA
 **Title:** SQLite database and CRUD routes
 
-## Live Link https://vinuthna-5017-lab2.onrender.com/books
+## Live Link https://aksharabdflab2.onrender.com/books
+
 
 **Status:** deployed
 
@@ -35,7 +36,7 @@ CRUD stands for Create, Read, Update, and Delete.
 
 BDF
 lab2/
-├── screenshots/
+├── screenshot/
 │   ├── database.png
 │   ├── get-all.png
 │   ├── get-one.png
