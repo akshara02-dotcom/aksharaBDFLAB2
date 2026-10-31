@@ -36,15 +36,15 @@ CRUD stands for Create, Read, Update, and Delete.
 
 BDF
 lab2/
-├── screenshots/
+├── screenshot/
 │   ├── database.png
 │   ├── get-all.png
-│   ├── get-one.png
-│   ├── post-book-01.png
-│   ├── put-book-01.png
+│   ├── get-1.png
+│   ├── post-book.png
+│   ├── put-book.png
 │   ├── delete-book.png
 │   ├── verify-books.png
-│   └── server-running.png
+│   └── server-runing.png
 ├── database.db
 ├── package.json
 ├── package-lock.json
@@ -139,35 +139,35 @@ Parameterized SQL queries with `?` placeholders are used for queries that accept
 
 ### 1. SQLite Database
 
-![SQLite database and book records](screenshots/database.png)
+![SQLite database and book records](screenshot/database.png)
 
 ### 2. GET All Books
 
-![GET all books response](screenshots/get-all.png)
+![GET all books response](screenshot/get-all.png)
 
 ### 3. GET One Book
 
-![GET one book response](screenshots/get-one.png)
+![GET one book response](screenshot/get-1.png)
 
 ### 4. POST — Add a Book
 
-![POST add book response](screenshots/post-book-1.png)
+![POST add book response](screenshot/post-book.png)
 
 ### 5. PUT — Update a Book
 
-![PUT update book response](screenshots/put-book-1.png)
+![PUT update book response](screenshot/put-book.png)
 
 ### 6. DELETE — Delete a Book
 
-![DELETE book response](screenshots/delete-book.png)
+![DELETE book response](screenshot/delete-book.png)
 
 ### 7. Verify Database Changes
 
-![GET response after database changes](screenshots/verify-books.png)
+![GET response after database changes](screenshot/verify-books.png)
 
 ### 8. Server Running
 
-![VS Code terminal showing the server running](screenshots/server-running.png)
+![VS Code terminal showing the server running](screenshot/server-runing.png)
 
 ## Problems Faced and Solutions
 
