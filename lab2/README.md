@@ -36,7 +36,7 @@ CRUD stands for Create, Read, Update, and Delete.
 
 BDF
 lab2/
-├── screenshot/
+├── screenshots/
 │   ├── database.png
 │   ├── get-all.png
 │   ├── get-one.png
